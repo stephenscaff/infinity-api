@@ -1,7 +1,6 @@
 <?php
-/**
- * Run task, dumped to test json response
- */
+
+# Run task, dumped to test json response
 $base = dirname(dirname(__FILE__));
 
 include_once $base . '/inc/InfinityRequest.php';

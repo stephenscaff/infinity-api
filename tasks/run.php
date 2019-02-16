@@ -1,8 +1,6 @@
 <?php
 
-/**
- * Main Task for the cron job
- */
+# Main Task for the cron job
 $base = dirname(dirname(__FILE__));
 
 include_once $base . '/inc/InfinityRequest.php';
